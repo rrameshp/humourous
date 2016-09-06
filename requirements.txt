@@ -1,0 +1,10 @@
+#required
+numpy
+scikit-image
+
+#optional
+pyaudio
+matplotlib
+wave
+tflearn
+
